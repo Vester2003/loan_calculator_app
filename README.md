@@ -1,4 +1,4 @@
-# project
+# Loan Calculator App
 
 A new Flutter project.
 
